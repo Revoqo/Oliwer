@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliwer22&label=Profile%20views&color=0e75b6&style=flat" alt="oliwer22" /> </p>
 
+- 🔭 I’m currently working on **A Discord bot**
+
+- 💬 Ask me about **everything**
+
+- 📫 How to reach me **oliwer.w2209@gmail.com**
+
+- ⚡ Fun fact **It`s my hobby**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

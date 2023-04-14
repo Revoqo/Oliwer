@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **A Discord bot**
 
-- 💬 Ask me about **everything**
+- 💬 Ask me about **evddderything**
 
 - 📫 How to reach me via Gmail [Oliwer](oliwer.w2209@gmail.com)
 - 📫 Also reach me on Twitter [RevoD21](https://twitter.com/RevoD21)

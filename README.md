@@ -7,10 +7,9 @@
 
 - 💬 Ask me about **everything**
 - ⚡ Fun fact **It`s my hobby**
-
-<h3 align="left">Connect with me:
 - * ✉️  You can contact me at [Oliwer](mailto:oliwer.w2209@gmail.com)
 - * 🖥️  See my portfolio at [My Twitter](http:///twitter.com/RevoD21)
+<h3 align="left">Connect with me:
 </h3>
 
 <p align="left">

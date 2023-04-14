@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **[Oliwer]oliwer.w2209@gmail.com**
+- 📫 How to reach me [Oliwer]oliwer.w2209@gmail.com
 
 - ⚡ Fun fact **It`s my hobby**
 

@@ -9,8 +9,8 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me [Oliwer]oliwer.w2209@gmail.com
-
+- 📫 How to reach me [Oliwer](oliwer.w2209@gmail.com)
+- 📫 Also reach me on Twitter[RevoD21](https://twitter.com/RevoD21))
 - ⚡ Fun fact **It`s my hobby**
 
 <h3 align="left">Connect with me:</h3>

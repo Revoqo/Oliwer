@@ -1,4 +1,4 @@
-<center><img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="HI_gif" style="display: block; margin: 0 auto;"></center>
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="HI_gif" style="display: block; margin: 0 auto;">
 <h1 align="center">Hi 👋, I'm Oliwer</h1>
 <h3 align="center">A passionate developer from Poland that lives in The Nederlands</h3>
 

@@ -6,12 +6,11 @@
 - 🔭 I’m currently working on **A Discord bot**. And also on Web pages
 
 - 💬 Ask me about **everything**
-
-- * ✉️  You can contact me at [Oliwer](mailto:oliwer.w2209@gmail.com)
-- * 🖥️  See my portfolio at [My Twitter](http:///twitter.com/RevoD21)
-- *⚡ Fun fact **It`s my hobby**
+- ⚡ Fun fact **It`s my hobby**
 
 <h3 align="left">Connect with me:</h3>
+- * ✉️  You can contact me at [Oliwer](mailto:oliwer.w2209@gmail.com)
+- * 🖥️  See my portfolio at [My Twitter](http:///twitter.com/RevoD21)
 <p align="left">
 </p>
 

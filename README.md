@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Computer man" style="width:48px;height:48px;">
 <h1 align="center">Hi 👋, I'm Oliwer</h1>
 <h3 align="center">A passionate developer from Poland that lives in The Nederlands</h3>
 
@@ -10,7 +11,7 @@
 - 💬 Ask me about **everything**
 
 - 📫 How to reach me [Oliwer](oliwer.w2209@gmail.com)
-- 📫 Also reach me on Twitter[RevoD21](https://twitter.com/RevoD21))
+- 📫 Also reach me on Twitter[RevoD21](https://twitter.com/RevoD21)
 - ⚡ Fun fact **It`s my hobby**
 
 <h3 align="left">Connect with me:</h3>
